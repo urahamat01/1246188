@@ -1,0 +1,405 @@
+.m{
+	background:#FFFFFF;
+	width:100%;
+	height:92px;
+	
+}
+.w{
+	background:#FFFFFF;
+	width:20%;
+	height:100px;
+	float:left;
+	margin-left;15px;
+	}
+.icon-bar{
+	background:#FFFFFF;
+	width:80%;
+	height:100px;
+	float:left;
+	overflow: auto;
+	}
+	
+
+.icon-bar a {
+    float: right;
+    width: 8%;
+    text-align: center;
+    padding: 3px 0;
+    margin:5px;
+    color: #F5D1D5;
+    font-size: 20px;
+}
+
+.icon-bar a:hover {
+    background-color: #FFFFFF;
+}
+
+
+#main{
+	background:#FFCB05;
+	width:100%;
+	height:auto;
+	
+	
+	
+}
+#main1{
+	background:#FFCB05;
+	width:100%;
+	height:auto;
+	
+	
+	
+}
+#main3{
+	background:#FFFFFF;
+	width:100%;
+	height:auto;
+	
+}
+#l{
+	background:#F1F1F1;
+	height:48px;
+	width:100%;
+	text-align:center;
+	margin:3px;
+	padding:3px;
+	float:left;
+	
+}
+.col1{
+	background:#FFCB05;
+	width:50%;
+	height:80px;
+	float:left;
+	
+	
+}
+.col1{
+	
+	font-size:15px;
+	}
+.col2{
+	background:#FFCB05;
+	width:50%;
+	height:80px;
+	float:left;
+	
+	
+}
+.col2{
+	
+	font-size:15px;
+}
+.col3{
+	background:#FFCB05;
+	width:50%;
+	height:50px;
+	float:left;
+	
+	
+}
+.col4{
+	background:#FFCB05;
+	width:50%;
+	height:50px;
+	float:left;
+	
+	}
+.col4 a{
+		font-size:15px;
+		
+		
+	}
+.col5{
+	background:#FFFFFF;
+	width:40%;
+	height:90px;
+	float:left;}
+	
+.col6{
+	background:#FFFFFF;
+	width:17%;
+	height:90px;
+	float:left;
+	}
+.col7{
+	background:#FFFFFF;
+	width:43%;
+	height:90px;
+	float:left;
+	}
+.g{
+	position:center;
+	margin-left:150px;
+	margin-top:10px
+	
+}
+.g:hover{
+	background-color:black;
+	display:circle;
+	
+}
+.h{
+	position:center;
+	margin-left:120px;
+	
+}
+.h:hover{
+	background-color:black;
+	display:circle;
+	border-style:circle;
+	
+}
+a{
+	background-color:black;
+	color:#FFCB05;
+	margin:3px;
+	padding:2px;
+	border-radius:8px;
+	
+
+}
+p{
+	font-size:14px;
+	
+}
+a:hover{
+	background-color:#FFFFFF;
+	color:#FFCB05;
+	margin:3px;
+	padding:2px;
+	border-radius:6px;
+	
+
+}
+*{
+margin:0px;
+padding:0px
+}
+ul ul{
+position:absolute;
+display:none;
+
+}
+
+ul li a:hover{
+background-color:#D1AEE6;
+border-radius:4px;
+}
+
+ul li{
+background:0;
+height:30px;
+width:120px;
+line-height:35px;
+float:left;
+position:relative;
+border-radius:6px;
+text-align:center;
+font-size:15px;
+
+}
+
+ul{
+background:none;
+
+list-style:none;
+size:20px;
+}
+ul li:hover> ul
+{
+	
+display:block;
+border-radius:6px;
+}
+#g{
+	height:75px;
+	width:100%;
+	text-align:center;
+	font-size:25px;
+	float:center;
+}
+#outerbox{
+	width:1100px;
+	overflow:hidden;
+	
+	
+}
+#sliderbox{
+	position:relative;
+	width:3840;
+	animation-name:rony;
+	animation-duration:4s;
+	animation-iteration-count:infinite;
+	
+}
+#sliderbox img{
+	float:left;
+	
+}
+@keyframes rony{
+	0%{
+		left:0px;
+	}
+	
+	50%{
+		left:-1910px;
+	}
+	100%{
+		left:-3840px;
+	}
+	
+	}
+#kk{
+	background:#FFFFFF;
+	height:280px;
+	width:100%;
+	text-align:center;
+	margin:3px;
+	padding:3px;
+	float:left;
+}
+
+.mm{
+	height:400px;
+	width:25%;
+	float:left;
+}
+.nn{
+	height:400px;
+	width:25%;
+	float:left;
+}
+.bb{
+	height:400px;
+	width:25%;
+	float:left;
+}
+.cc{
+	height:400px;
+	width:25%;
+	float:left;
+}
+#mub{
+	background:#FFFFFF;
+	height:50px;
+	width:100%;
+	text-align:center;
+}
+
+address{
+	font-size:13px;
+}
+.jj{
+	height:50px;
+	width:18%;
+	float:left;
+}
+.jk{
+	height:50px;
+	width:18%;
+	float:left;
+}
+
+.jy{
+	height:50px;
+	width:18%;
+	float:left;
+}
+.jp{
+	height:50px;
+	width:18%;
+	float:left;
+}
+.jwe{
+	height:50px;
+	width:18%;
+	float:left;
+	
+}
+
+.oo{
+	height:130px;
+	width:100%;
+	float:left;
+}
+#ww{
+	width:100%;
+	height:150px;
+	text-align:center;
+	margin:1px;
+	padding:1px;
+	float:left;
+}
+#hhh{
+	width:100%;
+	height:260px;
+}
+#lole{
+	width:100%;
+	height:120px;
+	
+	
+}
+#lole1{
+	width:100%;
+height:190px;
+}
+.lo1{
+	width:50%;
+	height:120px;
+	float:left;
+	text-align:center;
+	font-size:14px;
+}
+.lo2{
+	width:50%;
+	height:120px;
+	text-align:center;
+	float:left;
+	font-size:14px;
+}
+.im1{
+	background:#F3F3F3;
+	width:50%;
+	height:190px;
+	float:left;
+	
+}
+.im2{
+	background:#F3F3F3;
+	width:50%;
+	height:190px;
+	float:left;
+	
+}
+#rol{
+	width:100%;
+	height:18px;
+	float:left;
+	text-align:center;
+	
+}
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+    background-color: RoyalBlue;
+}
+
+
+	
+@media (max-width:600px){}
+
+
+	
+
+
